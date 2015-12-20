@@ -1,4 +1,10 @@
 # SISSoftware.
+
+WE ARE IN THE PROCESS OF MOVING THE SIS TO A NEW, EASIER TO USE REPOSITORY. PLEASE CONSIDER MOVING YOUR FOCUS TO
+
+HTTPS://github.com/TeamPracticalProjects/SISProject
+
+
 This repository holds the firmware for the SIS Hub, the javascript based website that is the SIS Client app,
 and the Arduino code to make an SIS compatible sensor.
 
